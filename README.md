@@ -1,8 +1,8 @@
-### Olá! Eu sou a Natalia Canellas, programadora e engenheira ambiental!
-### Hi There! 👋 I'm Natalia Canellas, programmer and environmental engineer!
+### Olá! Eu sou a Natalia Canellas, desenvolvedora mobile!
+### Hi There! 👋 I'm Natalia Canellas, mobile developer!
 
-- 🌱 Estudando Java Script       
-- 💻 I’m currently learning Java Script
+- 🌱 Estudando React Native, Flutter e C#.       
+- 💻 I’m currently studying React Native, Flutter and C#.
 
 <div align="center">
   <a href="https://github.com/nataliacanellas">
