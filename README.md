@@ -1,19 +1,14 @@
 ### Olá! Eu sou a Natalia Canellas, desenvolvedora mobile!
 ### Hi There! 👋 I'm Natalia Canellas, mobile developer!
 
-- 🌱 Estudando React Native, Flutter e C#.       
-- 💻 I’m currently studying React Native, Flutter and C#.
-
-<div align="center">
-  <a href="https://github.com/nataliacanellas">
-  <img height="160em" img width="350" src="https://github-readme-stats.vercel.app/api?username=nataliacanellas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacanellas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+- 🌱 Estudando React Native e React. 
+- 💻 I’m currently studying React Native and React.
   
+- 📚 Conhecimentos: Flutter, VueJS e Inglês fluent
+- 🚀 I already worked with Flutter, VueJS and I'm fluent in english
+
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/692860921080578152/907405998099144714/Postagem_em_video_quadrado_1080x1080_px._1.gif">
 </div>
-  
 
 <div>
   <a href="https://www.youtube.com/channel/UC22m2hMywPpRL_RV-eKERzQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
